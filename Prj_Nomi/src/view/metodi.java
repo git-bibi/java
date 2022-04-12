@@ -20,7 +20,7 @@ public class metodi {
 
 
 	public static void Nome1() {
-			System.out.println("ciao sono paul, ciao");
+			System.out.println("ciao sono paul");
 		}
 
 	public static void main(String[] args) {
