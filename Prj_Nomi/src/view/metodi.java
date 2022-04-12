@@ -9,7 +9,7 @@ public class metodi {
 		System.out.println("Ciao sono Ludovico");
 	}
 
-	public static void main(String[] args) {
+	
 
 
 
